@@ -1,4 +1,4 @@
-# Hi 👋 I'm Hasan Khan
+<center># Hi 👋 I'm Hasan Khan
 
 ## SEO Specialist | Web Developer | Digital Marketer from India
 
@@ -33,16 +33,4 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-
-## GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=goldenkhan&show_icons=true&locale=en&layout=compact)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=goldenkhan&show_icons=true&locale=en)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=goldenkhan&)
-
-## Support Me
-
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/hasankhan)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)</center>
