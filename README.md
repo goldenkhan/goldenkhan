@@ -1,60 +1,48 @@
-<h1 align="center">Hi 👋, I'm Hasan Khan</h1>
-<h3 align="center">SEO Specialist | Web Developer | Digital Marketer from India</h3>
+# Hi 👋 I'm Hasan Khan
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=goldenkhan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+## SEO Specialist | Web Developer | Digital Marketer from India
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=goldenkhan" alt="GitHub Trophies" />
-  </a>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=goldenkhan&label=Profile%20Views&color=0e75b6&style=flat)
 
-- 🔭 I’m currently working on **[HasanKhan.in](https://hasankhan.in)**, my personal portfolio website.
+## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=goldenkhan)
 
-- 🌱 I’m currently learning **Advanced Technical SEO and JavaScript frameworks**.
+## About Me
 
-- 👯 I’m looking to collaborate on **SEO and Web Development Projects**.
+- 🔭 Currently working on **[HasanKhan.in](https://hasankhan.in)**, my personal portfolio website
+- 🌱 Learning **Advanced Technical SEO and JavaScript frameworks**
+- 👯 Looking to collaborate on **SEO and Web Development Projects**
+- 🤝 Open to helping with **Digital Marketing Strategies and Website Optimization**
+- 👨‍💻 Portfolio: **[HasanKhan.in](https://hasankhan.in)**
+- 📝 Writing tech and marketing articles on **[totalinfo.in](https://totalinfo.in)**
+- 💬 Ask me about **SEO, WordPress Development, Shopify Customization, and E-commerce Growth**
+- 📫 Contact: **contact@hasankhan.in**
+- 📄 Experience details: [View Portfolio](https://hasankhan.in/portfolio)
+- ⚡ Fun fact: **I love blending creativity with data to solve complex challenges**
 
-- 🤝 I’m open to helping with **Digital Marketing Strategies and Website Optimization**.
+## Connect with Me
 
-- 👨‍💻 Check out my portfolio at **[HasanKhan.in](https://hasankhan.in)**.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/hasan-khan-seo)
+[![Twitter](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=twitter)](https://twitter.com/goldenkhan)
+[![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail)](mailto:contact@hasankhan.in)
 
-- 📝 I regularly write articles on **[totalinfo.in](https://totalinfo.in)**, covering tech and marketing trends.
+## Languages and Tools
 
-- 💬 Ask me about **SEO, WordPress Development, Shopify Customization, and E-commerce Growth**.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
-- 📫 Reach me at **contact@hasankhan.in**.
+## GitHub Stats
 
-- 📄 Know more about my experience [here](https://hasankhan.in/portfolio).
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=goldenkhan&show_icons=true&locale=en&layout=compact)
 
-- ⚡ Fun fact: **I love blending creativity with data to solve complex challenges.**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=goldenkhan&show_icons=true&locale=en)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/hasan-khan-seo" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/></a>
-  <a href="https://twitter.com/goldenkhan" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/twitter.svg" alt="Twitter" width="40" height="40"/></a>
-  <a href="mailto:contact@hasankhan.in" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" alt="Email" width="40" height="40"/></a>
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=goldenkhan&)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://www.shopify.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/shopify.svg" alt="Shopify" width="40" height="40"/></a>
-  <a href="https://wordpress.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40"/></a>
-</p>
+## Support Me
 
-<h3 align="left">Support:</h3>
-<p>
-  <a href="https://www.buymeacoffee.com/hasankhan"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" /></a>
-</p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=goldenkhan&show_icons=true&locale=en&layout=compact" alt="goldenkhan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=goldenkhan&show_icons=true&locale=en" alt="goldenkhan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=goldenkhan&" alt="goldenkhan" /></p>
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/hasankhan)
